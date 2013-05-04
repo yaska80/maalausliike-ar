@@ -1,7 +1,11 @@
-<!--<div class="wrapper">
+<div class="wrapper">
   <div id="footer">
-    <div id="newsletter">
-      <h2>Stay In The Know !</h2>
+    <?php 
+      $a = new GlobalArea('Footer Contact');
+      $a->display();
+    ?>
+
+      <!--<h2>Stay In The Know !</h2>
       <p>Please enter your email to join our mailing list</p>
       <form action="#" method="post">
         <fieldset>
@@ -42,12 +46,12 @@
         <li class="last"><a href="#">Praesent et eros</a></li>
       </ul>
     </div>
-    <br class="clear" />
+    <br class="clear" />-->
   </div>
-</div>-->
+</div>
 <div class="wrapper">
   <div id="copyright">
-    <p class="fl_left">Copyright &copy; 2011 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_left">Copyright &copy; 2013 - All Rights Reserved - <a href="#">www.maalausliikear.fi</a></p>
     <p class="fl_right">Template by <a href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
     <br class="clear" />
   </div>

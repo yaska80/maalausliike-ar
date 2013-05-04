@@ -12,13 +12,13 @@ table{
 	table-layout:auto;
 	vertical-align:top;
 	margin-bottom:15px;
-	border:1px solid #999999;
+	/*border:1px solid #999999;*/
 	}
 
 table thead th{
 	color:#FFFFFF;
 	background-color:#000000;
-	border:1px solid #999999;
+	/*border:1px solid #999999;*/
 	border-collapse:collapse;
 	text-align:center;
 	table-layout:auto;
@@ -28,8 +28,8 @@ table thead th{
 table tbody td{
 	vertical-align:top;
 	border-collapse:collapse;
-	border-left:1px solid #999999;
-	border-right:1px solid #999999;
+	/*border-left:1px solid #999999;*/
+	/*border-right:1px solid #999999;*/
 	}
 	
 table thead th, table tbody td{
