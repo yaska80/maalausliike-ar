@@ -6,7 +6,7 @@
 <?=Loader::element("header_required");?>
 </head>
 <body id="top">
-<link href='http://fonts.googleapis.com/css?family=Mrs+Saint+Delafield|Open+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Mrs+Saint+Delafield|Open+Sans|Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
 <!-- <link href='http://fonts.googleapis.com/css?family=Italianno' rel='stylesheet' type='text/css'> -->
 <div class="wrapper">
   <div id="header">
