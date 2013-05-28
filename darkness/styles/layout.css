@@ -459,6 +459,28 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 	padding:4px;
 	}
 
+#left_column {
+	float: left;
+	width: 240px;
+	padding-right: 20px;
+}
+
+#rest_column {
+	float: right;
+	width: 700px;
+}
+
+#main_column {
+	float: left;
+	width: 440px;
+}
+
+#right_column {
+	float: right;
+	width: 240px;
+	padding-left: 20px;
+}
+
 /* ----------------------------------------------Footer-------------------------------------*/
 
 #footer{
